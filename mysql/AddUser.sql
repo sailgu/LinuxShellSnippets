@@ -1,2 +1,2 @@
-create suoly IDENTIFIED by  'suoliya';
-GRANT ALL PRIVILEGES ON *.* TO 'suoly'@'%'  WITH GRANT OPTION;
+create user 'tianlangdev'@'%' IDENTIFIED by 'cyhd2017';
+GRANT ALL PRIVILEGES ON *.* TO 'tianlangdev'@'%'  WITH GRANT OPTION;
